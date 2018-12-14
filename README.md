@@ -1,7 +1,6 @@
 - [Android](#android)
-
-
-
+  - [国内](#国内)
+  - [国外](#国外)
 
 
 
@@ -38,10 +37,10 @@
 
 #### 国外
 
-| Avatar    |Nickname | GitHub  | Blog | Description      |
+|Nickname | GitHub  | Blog | Description      |
 | :---------- |:---------------|:----------|:---------------------|
-|![Google Android](https://avatars3.githubusercontent.com/u/1342004?s=80)|Google Android|https://github.com/googlesamples|http://android-developers.blogspot.com/||
-|![JakeWharton](https://avatars0.githubusercontent.com/u/66577?s=80)|JakeWharton|https://github.com/JakeWharton|http://jakewharton.com|ActionBarSherlock , Android-ViewPagerIndicator , Nine Old Androids , butterknife|
+|Google Android|https://github.com/googlesamples|http://android-developers.blogspot.com/||
+|JakeWharton|https://github.com/JakeWharton|http://jakewharton.com|ActionBarSherlock , Android-ViewPagerIndicator , Nine Old Androids , butterknife|
 
 
 
