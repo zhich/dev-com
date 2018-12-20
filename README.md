@@ -40,7 +40,11 @@
 |Nickname | GitHub  | Blog | Description      |
 | :---------- |:---------------|:----------|:---------------------|
 |Google Android|https://github.com/googlesamples|http://android-developers.blogspot.com/||
-|JakeWharton|https://github.com/JakeWharton|http://jakewharton.com|ActionBarSherlock , Android-ViewPagerIndicator , Nine Old Androids , butterknife|
-
-
-
+|JakeWharton|https://github.com/JakeWharton|http://jakewharton.com/|ActionBarSherlock , Android-ViewPagerIndicator , Nine Old Androids , butterknife|
+|Chris Banes|https://github.com/chrisbanes|https://chris.banes.me/|ActionBar-PullToRefresh , PhotoView , Android-BitmapCache , Android-PullToRefresh|
+|Jeremy Feinstein|https://github.com/jfeinstein10|http://jeremyfeinstein.com/|SlidingMenu , JazzyViewPager|
+|Sergey Tarasevich|https://github.com/nostra13|http://nostra13android.blogspot.com/|Android-Universal-Image-Loader|
+|Koushik Dutta|https://github.com/koush|http://koush.com/|Superuser , AndroidAsync , UrlImageViewHelper|
+|Simon Vig Therkildsen|https://github.com/SimonVT|http://simonvt.net/|android-menudrawer , MessageBar|
+|Cyril Mottier|https://github.com/cyrilmottier|https://cyrilmottier.com/|GreenDroid , Polaris|
+|Emil Sjölander|https://github.com/emilsjolander|http://emilsjolander.se/|StickyListHeaders , sprinkles , android-FlipView|
