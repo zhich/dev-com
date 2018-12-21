@@ -1,4 +1,4 @@
-> Android 相关的一些国内外公司或个人。
+> Android 相关的一些国内外公司或个人信息。
 
 
 - [Android](#android)
